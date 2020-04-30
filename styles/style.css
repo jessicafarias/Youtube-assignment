@@ -84,4 +84,34 @@ iframe {
      background-color: rgb(204, 0, 0);
  }
 
+ 
+/*Aside*/
+aside{
+    float: right;
+    width: 30%;
+    padding-top: 50px;
+    padding-left: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 14px;
+}
+aside p{
+    margin: 5px;
+     min-width: 180px;
+    max-width: 200px;
+}
+aside div{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid #cfcfcf;
+}
+aside div img{
+    padding-bottom: 10px;
+    width: 153px;
+    height: 86px;
+    cursor:pointer;
+}
+
+
 
