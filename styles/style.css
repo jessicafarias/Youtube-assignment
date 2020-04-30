@@ -113,5 +113,34 @@ aside div img{
     cursor:pointer;
 }
 
+/*Comments section*/
+.comments{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+#SectionComments{
+    float: left;
+    padding-left: 70px;
+    padding-top: 0px;
+}
+section img{
+    padding: 15px;
+    width: 40px;
+    height: 40px;    
+    cursor: pointer;
+}
+.likes{
+    display: flex;
+    flex-direction: row;
+}
+.likes img
+{
+    padding: 10px;
+    width: 15px;
+    height: 15px;
+}
+
 
 
