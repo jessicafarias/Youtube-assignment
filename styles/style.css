@@ -21,7 +21,7 @@ header img{
     height: 20px;
     margin-left: 15px;
 }
-#SearchBarContainer{
+.SearchBarContainer{
     width: 580px;
 }
 #SearchBar{
@@ -75,7 +75,7 @@ iframe {
      width: 20px;
      height: 20px;
  }
- #User{
+ .User{
      display: grid;
      grid-template-columns: 1fr 3fr 8fr 1fr;
  }
