@@ -142,5 +142,24 @@ section img{
     height: 15px;
 }
 
+/* Responsive section*/
+@media (max-width: 1000px){
+    aside p{
+        max-width: 90%;
+    }   
+    #Main{
+        width: 100%;
+    }
+    aside {
+        width: 95%;
+    }
+    iframe{
+        max-width: 100%;
+        max-height:100%;
+    }
+    #SectionComments{
+        padding: 5px;
+    }
+}
 
 
