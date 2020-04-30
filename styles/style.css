@@ -1,0 +1,10 @@
+/* General styles*/
+body{
+    color: #515151;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 15px;
+}
+#Main{
+    float: left;
+    width: 65%;
+}
