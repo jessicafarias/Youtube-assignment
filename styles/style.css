@@ -8,3 +8,39 @@ body{
     float: left;
     width: 65%;
 }
+
+/*Header*/
+header{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+}
+header img{
+    width: auto;
+    height: 20px;
+    margin-left: 15px;
+}
+#SearchBarContainer{
+    width: 580px;
+}
+#SearchBar{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 4fr 1fr;
+    height: 100%;
+}
+#SearchBar input{   
+    padding: 0px;
+    height: 25px;
+}
+button{
+    float: right; 
+    height: 29px;
+    width: 70px;
+    border-width: 0px;
+}
+#SearchBtn{
+    border-width: 2px;
+}
+
