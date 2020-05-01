@@ -4,7 +4,7 @@ body{
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 15px;
 }
-#Main{
+main{
     float: left;
     width: 65%;
 }
@@ -147,7 +147,7 @@ section img{
     aside p{
         max-width: 90%;
     }   
-    #Main{
+    main{
         width: 100%;
     }
     aside {
