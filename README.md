@@ -17,14 +17,20 @@ HTML, CSS
 **👤 Author1**
 
 Github: @krash46
+
 Twitter: @FariasRosado
+
 Linkedin: https://www.linkedin.com/in/jessica-michelle-farias-rosado/
+
 
 **👤 Author2**
 
 Github: @mikethreels
+
 Twitter: @MichaelThreels
+
 Linkedin: www.linkedin.com/in/michael-threels-24101991
+
 
 # 🤝 Contributing
 Contributions, issues and feature requests are welcome!
