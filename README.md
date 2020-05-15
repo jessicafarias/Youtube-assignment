@@ -16,7 +16,7 @@ HTML, CSS
 
 **👤 Author1**
 
-Github: @krash46
+Github: @jessicafarias
 
 Twitter: @FariasRosado
 
